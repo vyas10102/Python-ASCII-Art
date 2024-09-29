@@ -1,11 +1,13 @@
 # Python-ASCII-Art
 202403_Intro to Computer Vision_CSCI_6527_10_Project 2
 
-Authors:
+### Authors:
+
 Aditi Vyas (GW ID: G40802010)
 Ritwika Das (GW ID: G30941802)
 
-Professor:
+### Professor:
+
 Robert Pless
 
 ## Problem Domain and Project Description
