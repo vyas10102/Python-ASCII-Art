@@ -42,7 +42,7 @@ The ASCII Art Generator reliably transforms images into their ASCII art equivale
 - **GitHub Repositories**: Inspired by various open-source projects on GitHub that demonstrated basic image manipulation techniques.
 - **Stack Overflow**: Provided solutions for specific image processing issues encountered during development.
 
-The project consists of two main Python scripts:
+The project consists of Python script:
 
 - **ascii_conversion.py**: Contains all the functions needed for the image manipulation processes such as resizing the image to a manageable width, converting it to grayscale, and mapping the grayscale pixels to ASCII characters.
 
