@@ -3,8 +3,9 @@
 
 ### Authors:
 
-Aditi Vyas (GW ID: G40802010)
-Ritwika Das (GW ID: G30941802)
+- Aditi Vyas (GW ID: G40802010)
+
+- Ritwika Das (GW ID: G30941802)
 
 ### Professor:
 
