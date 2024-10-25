@@ -45,7 +45,7 @@ The ASCII Art Generator reliably transforms images into their ASCII art equivale
 
 ### Analysis of the Images:
 
-- The ASCII Art Generator manages to capture the general outline and form of the butterfly but struggles with fine details and gradients present in the original image. The output highlights the tool's capability to approximate complex elements in a minimalist format but also underscores the limitations in terms of detail and depth, which are hard to replicate with ASCII characters.
+- The ASCII Art Generator managed to capture the general outline and form of the butterfly but struggles with fine details and gradients present in the original image. The output highlights the tool's capability to approximate complex elements in a minimalist format but also underscores the limitations in terms of detail and depth, which are hard to replicate with ASCII characters.
 
 ### Original Image 2:
 
@@ -63,8 +63,7 @@ The ASCII Art Generator reliably transforms images into their ASCII art equivale
 
 This README outlines the operation of the ASCII Art Generator, a Python project utilizing the Pillow library to convert images into ASCII art. The tool processes any standard image file, resizing and converting it to grayscale to simplify pixel intensity analysis, before mapping pixels to ASCII characters. This project is ideal for educational purposes and creative applications where textual visualization of images is desired.
 
-- Image 1: The transformation from a colorful and detailed butterfly image to ASCII art illustrates the practical application of the tool while also showcasing its limitations. This project shows that while ASCII art can effectively convey basic shapes and structures, subtle nuances like color gradients and small details are lost. This could be particularly impactful in educational settings or artistic explorations where simplicity is more valued than high fidelity.
-- Image 2: The comparison between the original images and their ASCII representations provides valuable insights into the strengths and limitations of our ASCII Art Generator. While it excels in creating recognizable outlines and large features, it struggles with detail and depth, making it suitable for applications where a stylized, abstract representation is acceptable.
+This README outlines the operation of the ASCII Art Generator, a Python project utilizing the Pillow library to convert images into ASCII art. The tool processes any standard image file, resizing and converting it to grayscale to simplify pixel intensity analysis, before mapping pixels to ASCII characters. This project is ideal for educational purposes and creative applications where textual visualization of images is desired. Through this project, we have learned about the challenges of digital image processing, particularly in maintaining detail and texture when converting images to a restricted ASCII character set, and explored how simple visual data can be effectively represented in a non-traditional format.
 
 ## Tools and Resources
 
