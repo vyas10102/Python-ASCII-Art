@@ -59,6 +59,13 @@ The ASCII Art Generator reliably transforms images into their ASCII art equivale
 
 - The ASCII art of the airplane image showcases the system's capability to handle large scale contrast between the bright sky and the detailed texture of the mountain landscape beneath. The ASCII representation effectively outlines the airplane wing and the mountain ranges, capturing the vast expanse in a minimalistic style. However, nuances such as the subtle color gradation in the sky and the intricate mountain details are lost, underscoring the limitations of ASCII art in capturing gradient and fine details.
 
+## Summary
+
+This README outlines the operation of the ASCII Art Generator, a Python project utilizing the Pillow library to convert images into ASCII art. The tool processes any standard image file, resizing and converting it to grayscale to simplify pixel intensity analysis, before mapping pixels to ASCII characters. This project is ideal for educational purposes and creative applications where textual visualization of images is desired.
+
+- Image 1: The transformation from a colorful and detailed butterfly image to ASCII art illustrates the practical application of the tool while also showcasing its limitations. This project shows that while ASCII art can effectively convey basic shapes and structures, subtle nuances like color gradients and small details are lost. This could be particularly impactful in educational settings or artistic explorations where simplicity is more valued than high fidelity.
+- Image 2: The comparison between the original images and their ASCII representations provides valuable insights into the strengths and limitations of our ASCII Art Generator. While it excels in creating recognizable outlines and large features, it struggles with detail and depth, making it suitable for applications where a stylized, abstract representation is acceptable.
+
 ## Tools and Resources
 
 - **Pillow Library**: For image processing tasks.
