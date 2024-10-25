@@ -35,6 +35,11 @@ One challenge is the selection of ASCII characters that effectively represent va
 
 The ASCII Art Generator reliably transforms images into their ASCII art equivalents, maintaining a balance between simplicity and recognizability. While this approach does not incorporate advanced image processing techniques like machine learning models, it serves its intended purpose efficiently without the overhead of more complex systems. It is well-suited for educational purposes and simple artistic projects but may require enhancements for high-resolution artworks or applications needing finer detail.
 
+### Original Image:
+![Original Image](fly.jpg)  <!-- Update this with the correct path -->
+
+### ASCII Art Output:
+
 ## Tools and Resources
 
 - **Pillow Library**: For image processing tasks.
