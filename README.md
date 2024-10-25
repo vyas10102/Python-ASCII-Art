@@ -47,9 +47,29 @@ The ASCII Art Generator reliably transforms images into their ASCII art equivale
 
 ![Original Image](pic.jpg)  
 
-### ASCII Art Output 1:
+### ASCII Art Output 2:
 
 ![Original Image](plane_ascii.png)
+
+### Analysis of the Images
+
+Output 1:
+
+The ASCII Art Generator manages to capture the general outline and form of the butterfly but struggles with fine details and gradients present in the original image. The output highlights the tool's capability to approximate complex elements in a minimalist format but also underscores the limitations in terms of detail and depth, which are hard to replicate with ASCII characters.
+
+Output 2:
+
+The ASCII art of the airplane image showcases the system's capability to handle large scale contrast between the bright sky and the detailed texture of the mountain landscape beneath. The ASCII representation effectively outlines the airplane wing and the mountain ranges, capturing the vast expanse in a minimalistic style. However, nuances such as the subtle color gradation in the sky and the intricate mountain details are lost, underscoring the limitations of ASCII art in capturing gradient and fine details.
+
+### Discussion
+
+Output 1:
+
+The transformation from a colorful and detailed butterfly image to ASCII art illustrates the practical application of the tool while also showcasing its limitations. This project shows that while ASCII art can effectively convey basic shapes and structures, subtle nuances like color gradients and small details are lost. This could be particularly impactful in educational settings or artistic explorations where simplicity is more valued than high fidelity.
+
+Output 2:
+
+The comparison between the original images and their ASCII representations provides valuable insights into the strengths and limitations of our ASCII Art Generator. While it excels in creating recognizable outlines and large features, it struggles with detail and depth, making it suitable for applications where a stylized, abstract representation is acceptable.
 
 ## Tools and Resources
 
