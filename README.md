@@ -41,6 +41,8 @@ The ASCII Art Generator reliably transforms images into their ASCII art equivale
 
 ### ASCII Art Output 1:
 
+![Original Image](fly_ascii.jpg)
+
 ## Tools and Resources
 
 - **Pillow Library**: For image processing tasks.
