@@ -19,8 +19,6 @@ This project is particularly useful for artists, developers, and educators who w
 
 ## Approach
 
-### High-Level Strategy
-
 The project employs a straightforward image processing technique that involves resizing the image to a manageable width, converting it to grayscale to simplify pixel intensity analysis, and then mapping each pixel's brightness to a specific ASCII character. This method allows for quick and intuitive transformations of images into ASCII art.
 
 ### Data and Tools
@@ -49,15 +47,27 @@ The ASCII Art Generator reliably transforms images into their ASCII art equivale
 
 ### Original Image 2:
 
-![Original Image](pic.jpg)  
+![Original Image](aura.jpg)  
 
 ### ASCII Art Output 2:
 
-![Original Image](plane_ascii.png)
+![Original Image](aura_ascii1.jpg)
 
 ### Analysis of the Images:
 
-- The ASCII art of the airplane image showcases the system's capability to handle large scale contrast between the bright sky and the detailed texture of the mountain landscape beneath. The ASCII representation effectively outlines the airplane wing and the mountain ranges, capturing the vast expanse in a minimalistic style. However, nuances such as the subtle color gradation in the sky and the intricate mountain details are lost, underscoring the limitations of ASCII art in capturing gradient and fine details.
+- The first pair consisted of a photograph of a gray cat and its ASCII art representation. The original photograph captured the cat with detailed clarity, showcasing facial features and fur texture. The pink collar provided a vibrant contrast to the gray fur. The ASCII art conversions retained the general form of the cat but lost the subtleties of fur texture and color nuances. These elements were simplified into patterns of symbols, demonstrating the limitations of ASCII art in conveying complex textures and gradients.
+
+  ### Original Image 3:
+
+![Original Image](aura4.jpg)  
+
+### ASCII Art Output 3:
+
+![Original Image](aura_ascii2.jpg)
+
+### Analysis of the Images:
+
+- The second pair included a photograph of a fluffy white-and-gray kitten and its ASCII representation. The original image featured the kitten with bright eyes and a soft coat, with distinct color contrasts enhancing its charm. The ASCII versions recognized primary features like the eyes and body outline but simplified the fluffy fur into basic strokes, losing much of the detail and softness. This pair exemplified ASCII art's challenges in rendering detailed textures and preserving the visual impact of high-contrast color variations.
 
 ## Summary
 
@@ -75,6 +85,10 @@ The ASCII Art Generator is a Python project that utilizes the Pillow library to 
 The project consists of Python script:
 
 - **ascii_conversion.py**: Contains all the functions needed for the image manipulation processes such as resizing the image to a manageable width, converting it to grayscale, and mapping the grayscale pixels to ASCII characters.
+
+## What we learnt
+
+Throughout our ASCII Art Generator project, we learned to transform images into ASCII art using Python and the Pillow library, appreciating the simplicity and educational value of converting images through basic digital processing techniques. We encountered challenges in choosing ASCII characters that could accurately represent different shades of gray, which underscored the inherent limitations of ASCII art in preserving detailed textures and fine details. Despite these hurdles, we successfully created recognizable ASCII representations, which balanced simplicity and visual integrity well for educational and artistic purposes. Our experiences highlighted the need for more refined methods in applications demanding higher resolution and detail, offering valuable insights into the basic yet effective domain of image processing.
 
 ## Acknowledgments
 
