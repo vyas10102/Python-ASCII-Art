@@ -51,7 +51,7 @@ The ASCII Art Generator reliably transforms images into their ASCII art equivale
 
 ### ASCII Art Output 2:
 
-![Original Image](aura_ascii1.jpg)
+![Original Image](aura_ascii1.png)
 
 ### Analysis of the Images:
 
@@ -59,11 +59,11 @@ The ASCII Art Generator reliably transforms images into their ASCII art equivale
 
   ### Original Image 3:
 
-![Original Image](aura4.jpg)  
+![Original Image](aura4.jpeg)  
 
 ### ASCII Art Output 3:
 
-![Original Image](aura_ascii2.jpg)
+![Original Image](aura_ascii2.png)
 
 ### Analysis of the Images:
 
